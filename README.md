@@ -45,3 +45,18 @@ This project predicts the future prices of three major cryptocurrencies (Bitcoin
 ```bash
 git clone https://github.com/your-username/CryptoPricePrediction.git
 cd CryptoPricePrediction
+```
+
+### Step 2: Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### Step 3: Run the GUI Application
+```bash
+python scripts/gui_application.py
+```
+### Example Prediction
+1. Launch the GUI.
+2. Select a cryptocurrency from the dropdown (e.g., Bitcoin).
+3. Enter a future date (e.g., 2024-12-11).
+4. View the predicted price on the GUI.
